@@ -23,7 +23,7 @@ class Run():
 
         # 登陆区块
         self.slider()
-        # 商品搜索，二次验证登陆
+        # 商品搜索
         self.search()
 
     def slider(self):
